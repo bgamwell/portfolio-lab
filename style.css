@@ -1,0 +1,28 @@
+.col-sm-6 {
+  text-align: center;
+}
+
+.col-sm-4 {
+  text-align: center;
+}
+
+.header {
+  padding: 100px 0 0 175px;
+  color: #0F5176;
+}
+
+.form-inline {
+  text-align: center;
+}
+
+.thumbnail {
+  height: 450px;
+}
+
+img {
+  max-height: 250px;
+}
+
+.jumbotron {
+  margin-top: 200px;
+}
