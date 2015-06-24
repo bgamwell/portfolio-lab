@@ -26,3 +26,11 @@ img {
 .jumbotron {
   margin-top: 200px;
 }
+
+.container .text-muted {
+  margin: 20px 0;
+}
+
+.text-muted {
+  color: #777;
+}
